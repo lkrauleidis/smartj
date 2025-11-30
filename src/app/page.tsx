@@ -19,9 +19,9 @@ export default function Home() {
         <div className={styles.socialLinks}>
           <Link href="https://github.com/lkrauleidis" target="_blank" rel="noopener noreferrer">GitHub</Link>
           <Link href="https://www.linkedin.com/in/jerry-dev913/" target="_blank" rel="noopener noreferrer">LinkedIn</Link>
-          <Link href="https://www.linkedin.com/in/jerry-dev913/" target="_blank" rel="noopener noreferrer">Facebook</Link>
-          <Link href="https://www.linkedin.com/in/jerry-dev913/" target="_blank" rel="noopener noreferrer">Twitter</Link>
-          <Link href="https://www.linkedin.com/in/jerry-dev913/" target="_blank" rel="noopener noreferrer">Reddit</Link>
+          <Link href="https://www.facebook.com/jerry-dev913/" target="_blank" rel="noopener noreferrer">Facebook</Link>
+          <Link href="https://twitter.com/jerry-dev913/" target="_blank" rel="noopener noreferrer">Twitter</Link>
+          <Link href="https://www.reddit.com/user/jerry-dev913/" target="_blank" rel="noopener noreferrer">Reddit</Link>
         </div>
       </header>
 
